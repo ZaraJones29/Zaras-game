@@ -35,7 +35,7 @@ p {
 
 .img {
     display: flex;
-    flex-direction: flex;
+    flex-direction: row;
     justify-content: flex-start;
     gap: 17em;
     align-items: center;
